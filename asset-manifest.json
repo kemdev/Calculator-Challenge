@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/payjim-calculator-challenge/static/css/main.7dd1f5e0.css",
-    "main.js": "/payjim-calculator-challenge/static/js/main.221bb705.js",
-    "static/media/rightImage.png": "/payjim-calculator-challenge/static/media/rightImage.d8be365b36b8aaf0964c.png",
-    "static/media/cornerSphere.png": "/payjim-calculator-challenge/static/media/cornerSphere.ab28aad328e0dc9ff1e1.png",
-    "static/media/operators.png": "/payjim-calculator-challenge/static/media/operators.ad55fa44b8391ee3b2a3.png",
-    "static/media/ghost.png": "/payjim-calculator-challenge/static/media/ghost.b01d3858c7d5a9e78a1c.png",
-    "static/media/books.png": "/payjim-calculator-challenge/static/media/books.180a97122d11a8693f69.png",
-    "static/media/romman.woff2": "/payjim-calculator-challenge/static/media/romman.4b2e32d656332c72ab70.woff2",
-    "static/media/displayFont-bold.woff2": "/payjim-calculator-challenge/static/media/displayFont-bold.1488ad580ca02a221fef.woff2",
-    "index.html": "/payjim-calculator-challenge/index.html",
-    "main.7dd1f5e0.css.map": "/payjim-calculator-challenge/static/css/main.7dd1f5e0.css.map",
-    "main.221bb705.js.map": "/payjim-calculator-challenge/static/js/main.221bb705.js.map"
+    "main.css": "/Calculator-Challenge/static/css/main.c3c85a44.css",
+    "main.js": "/Calculator-Challenge/static/js/main.d9694e80.js",
+    "static/media/rightImage.png": "/Calculator-Challenge/static/media/rightImage.d8be365b36b8aaf0964c.png",
+    "static/media/cornerSphere.png": "/Calculator-Challenge/static/media/cornerSphere.ab28aad328e0dc9ff1e1.png",
+    "static/media/operators.png": "/Calculator-Challenge/static/media/operators.ad55fa44b8391ee3b2a3.png",
+    "static/media/ghost.png": "/Calculator-Challenge/static/media/ghost.b01d3858c7d5a9e78a1c.png",
+    "static/media/books.png": "/Calculator-Challenge/static/media/books.180a97122d11a8693f69.png",
+    "static/media/romman.woff2": "/Calculator-Challenge/static/media/romman.4b2e32d656332c72ab70.woff2",
+    "static/media/displayFont-bold.woff2": "/Calculator-Challenge/static/media/displayFont-bold.1488ad580ca02a221fef.woff2",
+    "index.html": "/Calculator-Challenge/index.html",
+    "main.c3c85a44.css.map": "/Calculator-Challenge/static/css/main.c3c85a44.css.map",
+    "main.d9694e80.js.map": "/Calculator-Challenge/static/js/main.d9694e80.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dd1f5e0.css",
-    "static/js/main.221bb705.js"
+    "static/css/main.c3c85a44.css",
+    "static/js/main.d9694e80.js"
   ]
 }
