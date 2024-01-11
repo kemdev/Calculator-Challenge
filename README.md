@@ -20,7 +20,7 @@ AC will delete the current entry if it was pressed once, and if pressed twice it
 
 - Clone the gitHub repo in to your local machine
 ```bash
-git@github.com:kemdev/payjim-calculator-challenge.git
+git@github.com:kemdev/Calculator-Challenge.git
 ```
 - Run the following command in the terminal to install the dependencies:
 ```bash
